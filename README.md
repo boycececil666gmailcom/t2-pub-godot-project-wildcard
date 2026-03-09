@@ -1,6 +1,6 @@
 # Project Wildcard
 
-A digital adaptation of the card game demonstrated in [this video](https://youtu.be/GbEkAfCqfTM).
+A digital adaptation of the card game demonstrated in [this tutorial](https://youtu.be/GbEkAfCqfTM).
 
 ## Concept
 
