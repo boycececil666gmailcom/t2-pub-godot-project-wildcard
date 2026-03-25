@@ -25,3 +25,7 @@ The rules are based on the physical card game shown above — this project bring
 ## Demo
 
 Play the demo on itch.io: [https://boycececil.itch.io/the-wildcard](https://boycececil.itch.io/the-wildcard)
+
+## Tutorial
+
+Watch the video tutorial on YouTube: [https://www.youtube.com/watch?v=GbEkAfCqfTM](https://www.youtube.com/watch?v=GbEkAfCqfTM)
